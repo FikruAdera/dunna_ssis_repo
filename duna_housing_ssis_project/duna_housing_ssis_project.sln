@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "duna_housing_ssis_project", "duna_housing_ssis_project.dtproj", "{43A76EC1-F775-482B-BD51-C34D595A7D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A76EC1-F775-482B-BD51-C34D595A7D55}.Development|Default.ActiveCfg = Development
+		{43A76EC1-F775-482B-BD51-C34D595A7D55}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F356F5-7DE2-42A9-9CB2-AAA4FB14DEE9}
+	EndGlobalSection
+EndGlobal
