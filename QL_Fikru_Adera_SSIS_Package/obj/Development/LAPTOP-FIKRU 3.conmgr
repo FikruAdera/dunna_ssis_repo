@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-FIKRU 3"
+  DTS:DTSID="{8E3E0340-9830-41EE-AA95-0C9BE378AEC2}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-FIKRU;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package2-{8E3E0340-9830-41EE-AA95-0C9BE378AEC2}LAPTOP-FIKRU 3;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

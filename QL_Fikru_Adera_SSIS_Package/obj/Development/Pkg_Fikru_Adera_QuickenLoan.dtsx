@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="9/6/2022 1:58:50 AM"
@@ -271,8 +271,8 @@ where [refTable].[MarketSourceCode] = ?</property>
               <connections>
                 <connection
                   refId="Package\DFT_Get data from sharepoint\Lookup.Connections[OleDbConnection]"
-                  connectionManagerID="{133CAB38-CA46-4D4E-81FE-46A0B581C7B5}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[LAPTOP-FIKRU]"
+                  connectionManagerID="{133CAB38-CA46-4D4E-81FE-46A0B581C7B5}:invalid"
+                  connectionManagerRefId="{133CAB38-CA46-4D4E-81FE-46A0B581C7B5}:invalid"
                   description="Connection manager used to access lookup data."
                   name="OleDbConnection" />
               </connections>
@@ -426,8 +426,8 @@ where [refTable].[MarketSourceCode] = ?</property>
               <connections>
                 <connection
                   refId="Package\DFT_Get data from sharepoint\OData Source.Connections[Connection]"
-                  connectionManagerID="{8D5D3562-D21C-40B7-83E8-B0A85900DC4F}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[OData Source]"
+                  connectionManagerID="{8D5D3562-D21C-40B7-83E8-B0A85900DC4F}:invalid"
+                  connectionManagerRefId="{8D5D3562-D21C-40B7-83E8-B0A85900DC4F}:invalid"
                   description="Connection to OData Service"
                   name="Connection" />
               </connections>
@@ -2322,8 +2322,8 @@ where [refTable].[MarketSourceCode] = ?</property>
               <connections>
                 <connection
                   refId="Package\DFT_Get data from sharepoint\OLE DB Destination.Connections[OleDbConnection]"
-                  connectionManagerID="{8E3E0340-9830-41EE-AA95-0C9BE378AEC2}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[LAPTOP-FIKRU 3]"
+                  connectionManagerID="{8E3E0340-9830-41EE-AA95-0C9BE378AEC2}:invalid"
+                  connectionManagerRefId="{8E3E0340-9830-41EE-AA95-0C9BE378AEC2}:invalid"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>

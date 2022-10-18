@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Fikru_Adera_LendingQB1"
   DTS:PackageType="5"
-  DTS:VersionBuild="99"
-  DTS:VersionGUID="{3ABFE5B2-434D-4663-898C-DF29F1498728}">
+  DTS:VersionBuild="100"
+  DTS:VersionGUID="{89D650A1-3A0A-4187-8B99-99392B6F71B9}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -73,13 +73,13 @@
         <ODataConnectionManager
           UserName="sharepoint@dunatk.com"
           Url="https://dunatkcom.sharepoint.com/sites/LendingQB2/_vti_bin/listdata.svc"
-          ConnectionString="Service Document Url=https://dunatkcom.sharepoint.com/sites/LendingQB2/_vti_bin/listdata.svc;Include Atom Elements=Auto;Include Expanded Entities=False;Integrated Security=False;Cookie=&quot;SPOIDCRL=77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U1A+VjEyLDBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMDQ1MzllODlmQGxpdmUuY29tLDAjLmZ8bWVtYmVyc2hpcHxzaGFyZXBvaW50QGR1bmF0ay5jb20sMTMzMTA0NDAwMjAwMDAwMDAwLDEzMzA1ODYzNzg1MDAwMDAwMCwxMzMxMDUyNjQyMDI1ODMyODEsMC4wLjAuMCw0LDg1ZGRmN2U5LTgwNjgtNGJiNi04OTc5LTQ0NzYxNDQyZTM5YSwsLDMwNTg2ZmEwLTMwOGYtMjAwMC03ZDAyLWNlNjJkNmU5OGFmYiwzMDU4NmZhMC0zMDhmLTIwMDAtN2QwMi1jZTYyZDZlOThhZmIsLDAsMCwwLCwsLDI2NTA0Njc3NDM5OTk5OTk5OTksMCwsLCwsLCwwLCxlWUlNaExwenZrMWVKbG9KYzZHZ1hlOTJBYlBPN2FKalJDeTlvYzBoVTVuOFNTUDd0VWEwUnF4MXR5Uk1CZ1FEODlBVVZuc1A0YWp5Qm9lVzVrQ05YaWp2a3VSRlFubXNiUGxkTTRLdy9oWDg0WHlrRWxjV2h5TE1qVFRKakVDZzd4Wms3U0F2T3NHWnprbmtLZTlHQmQwQytYUklPTzlrUCszSCtlWTRHZWNEK0ttZVplQ3pnc0FHemd3OTF2SUxRODV0M1pwTkNzRFpNMTh6Z1BEbTAwVjFkL21CWjIxeWQzNWwrV0JPZktsWVpSSkc0eU85SEJjcEdNUFlKeWpwd0ZaMW1OeTVNMVJhVkNwL2lYU2ZSSEJRUVJhVjNJWFhlWWhjVkowb2tPaGtYdHBNM3BEUHFYemE1cnhNWmVwNGlRRktUVzhuS2VHSE9JeXRiT2RWZmc9PTwvU1A+&quot;;User ID=sharepoint@dunatk.com;Persist Security Info=False;Time Out=600;Schema Sample Size=25;Retry Count=5;Retry Sleep=100;Keep Alive=False;Max Received Message Size=4398046511104"
+          ConnectionString="Service Document Url=https://dunatkcom.sharepoint.com/sites/LendingQB2/_vti_bin/listdata.svc;Include Atom Elements=Auto;Include Expanded Entities=False;Integrated Security=False;Cookie=&quot;SPOIDCRL=77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U1A+VjEyLDBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMDQ1MzllODlmQGxpdmUuY29tLDAjLmZ8bWVtYmVyc2hpcHxzaGFyZXBvaW50QGR1bmF0ay5jb20sMTMzMTA1MjcxODIwMDAwMDAwLDEzMzA1ODYzNzg1MDAwMDAwMCwxMzMxMDYxMzU4Mjk5NTIwNTgsMC4wLjAuMCw0LDg1ZGRmN2U5LTgwNjgtNGJiNi04OTc5LTQ0NzYxNDQyZTM5YSwsLDUwYWI2ZmEwLTQwODYtMjAwMC03ZDAyLWM5NmY0OTQ2NjM1Yiw1MGFiNmZhMC00MDg2LTIwMDAtN2QwMi1jOTZmNDk0NjYzNWIsLDAsMCwwLCwsLDI2NTA0Njc3NDM5OTk5OTk5OTksMCwsLCwsLCwwLCxCMlFnUDhpZGwxNng4bkZhcjUyMVMwaENlenJVNDA5WEVNbkZDNStrVHo4NDFaNlZyd3NvSUtpcVM4WjlKM2RlUVprTTVMOVdYRjFKSTlSNmNCYThWTjc4dmdTb01vUFNTY3hvTFZqNnQzb2RNdFNSYWlSWTNhSnJGNVRZS2ZCNWVHbnlNTzZMSjIrWjAvRlFNeU45QTUyVFhsNEY2R0p2WUJFT0ZPbVMyZmVkOFVidWtUOG5ENGNOODhBNU1md1huZUcyaHRzUjB3bWkxZnFBb1dYTkxFWTVKUFhxSnNDbmwxQzVOSUNzVTM0VmlwNUZ1UTNwa2U0YTl0dGhrQkVIaGVFczNvRnJJZzl3RW0yb1diOVUzb2RmdHdHdkpZNUkzTW90ZlJoNFVwY2dvVVdhclpxb2x4d3JodzNoR3BWa1NxMXpaSWpWOXNDK1dxRTJxeXJvWVE9PTwvU1A+&quot;;User ID=sharepoint@dunatk.com;Persist Security Info=False;Time Out=600;Schema Sample Size=25;Retry Count=5;Retry Sleep=100;Keep Alive=False;Max Received Message Size=4398046511104"
           MicrosoftOnlineServicesAuth="True"
           AuthType="MicrosoftOnlineService"
           ConnectByProxy="False">
           <Password
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAM4s3BiInb0yk0xIVA+NOEwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC87w57aeSDjosSz1DCR/LcorGY/3DKQdppIlWWFFsqcgAAAAAOgAAAAAIAACAAAADUZA2BYQ4o6M3S7RwMirMZIX1em0x4Mxhsmb+vZJS6CCAAAADrqNLVQhHEQSPno8WWBgh/zPj+EI2nq46aXyLPfQ84jkAAAAADtYIfaO9fS3ojRaqFfkGMA9mTGKzfeTX40vaC0FamPDlLMREykYuYMQQ2Z90xxxtfjoZ7AKShg/W9oLzv3edy</Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAM4s3BiInb0yk0xIVA+NOEwAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABtoxbS94IprqjbKf2EHasKoAraUP7WDfoO02GZrIJqGgAAAAAOgAAAAAIAACAAAADQ7gwr41Mx7imoYo5lEEDE8oNdbTMtbmDyiNyARbT4MyAAAADAf14/GJCi+cZSOI0zyt4nBgVIkcoJ4mcOH15q2j92PkAAAAAAqCYuMgG/QIg+IyNt7Y4mu3j5zLGmNDVhy+afqNXm+8bRYDNtWlt1CmgolUBWOvxmbrLWx9AjUKQMALGF1iDT</Password>
         </ODataConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -224,7 +224,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarSubject">
       <DTS:VariableValue
-        DTS:DataType="8">Pkg_Fikru_Adera_LendingQB1_Fail_on_2022-10-16.txt</DTS:VariableValue>
+        DTS:DataType="8">Pkg_Fikru_Adera_LendingQB1_Fail_on_2022-10-17.txt</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -534,13 +534,13 @@
                   description="Specifies the SQL statement that generates the lookup table."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">select * from [dbo].[MarketSourceLookup]</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from [dbo].[MarketSourceLookup]</property>
                 <property
                   dataType="System.String"
                   description="Specifies a SQL statement that uses parameters to generate the lookup table."
                   expressionType="Notify"
                   name="SqlCommandParam"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">select * from (select * from [dbo].[MarketSourceLookup]) [refTable]
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">select * from (select * from [dbo].[MarketSourceLookup]) [refTable]
 where [refTable].[MarketSourceCode] = ?</property>
                 <property
                   dataType="System.Int32"
@@ -2607,7 +2607,7 @@ where [refTable].[MarketSourceCode] = ?</property>
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -3989,7 +3989,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           <DTS:ObjectData>
             <ScriptProject
               Name="ST_7dd3451b865440a4b7741fab883140a3"
-              VSTAMajorVersion="15"
+              VSTAMajorVersion="16"
               VSTAMinorVersion="0"
               Language="CSharp"
               ReadOnlyVariables="System::ErrorDescription,System::PackageName,User::VarBody,User::varFromEmail,User::VarPassword,User::VarSubject,User::VarToEmail">
@@ -4336,8 +4336,8 @@ namespace ST_7dd3451b865440a4b7741fab883140a3
     <Reference Include="System.Data" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Microsoft.SqlServer.ManagedDTS, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
-    <Reference Include="Microsoft.SqlServer.ScriptTask, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.ManagedDTS, Version=16.0.0.0, Culture=Neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.ScriptTask, Version=16.0.0.0, Culture=Neutral, PublicKeyToken=89845dcd8080cc91" />
   </ItemGroup>
   <ItemGroup>
     <AppDesigner Include="Properties\" />
@@ -4372,7 +4372,7 @@ namespace ST_7dd3451b865440a4b7741fab883140a3
         <ProjectProperties HostName="ScriptTask" HostPackage="{B3A685AA-7EAF-4BC6-9940-57959FA5AC07}" ApplicationType="usd" Language="cs" TemplatesPath="" DebugInfoCommandLine="" DebugInfoWorkingDir="" IconImageList="" />
         <Host Name="ScriptTask" GeneratedNamespace="$safeprojectname" IconIndex=""></Host>
         <ProjectClient>
-          <HostIdentifier>SSIS_ST150</HostIdentifier>
+          <HostIdentifier>SSIS_ST160</HostIdentifier>
         </ProjectClient>
       </FlavorProperties>
     </VisualStudio>
@@ -4386,7 +4386,7 @@ namespace ST_7dd3451b865440a4b7741fab883140a3
     <msb:CodeName>ST_7dd3451b865440a4b7741fab883140a3</msb:CodeName>
     <msb:Language>msBuild</msb:Language>
     <msb:DisplayName>ST_7dd3451b865440a4b7741fab883140a3</msb:DisplayName>
-    <msb:ProjectId>{AE95C03F-14AD-4F2A-A31C-A42B465DE1DB}</msb:ProjectId>
+    <msb:ProjectId>{4CFE5243-52F7-459B-A53C-3DC7C74784E8}</msb:ProjectId>
   </msb:PropertyGroup>
   <msb:ItemGroup>
     <msb:Project Include="ST_7dd3451b865440a4b7741fab883140a3.csproj" />
@@ -4508,7 +4508,7 @@ namespace ST_7dd3451b865440a4b7741fab883140a3.Properties {
               <BinaryItem
                 Name="ST_7dd3451b865440a4b7741fab883140a3.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
-ZGUuDQ0KJAAAAAAAAABQRQAATAEDAK3pNGMAAAAAAAAAAOAAIiALATAAABIAAAAIAAAAAAAAnjEA
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDAKn1TWMAAAAAAAAAAOAAIiALATAAABIAAAAIAAAAAAAAnjEA
 AAAgAAAAQAAAAAAAEAAgAAAAAgAABAAAAAAAAAAGAAAAAAAAAACAAAAAAgAAAAAAAAMAYIUAABAA
 ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAAEwxAABPAAAAAEAAAJQEAAAAAAAAAAAAAAAAAAAA
 AAAAAGAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -4543,9 +4543,9 @@ A0IAeQBzBEgAAQFeABAAeQDgBRAAeQBWBhAA8QAqBgEACQGaBE4A8QCDBVQA8QDUA1sA8QBiAGAA
 GQFGBmYA0QAQBgEAcQCaBAYAmQCaBAYAKQGeAG0AKQFfBnYAoQCaBHwAwQCaBAYACAAUAJYACAAY
 AJsAKQBzAAMBLgALANsALgATAOQALgAbAAMBLgAjAAwBLgArADUBLgAzADUBLgA7ADsBLgBDAAwB
 LgBLAEgBLgBTADUBLgBbAGYBQwBjAJsASQBzAAMBYQB7AJsAYwBrAJsAGwADAAEABAADAAAAigTM
-AAAA/QDRAAAA+wXWAAIABAADAAIABQAFAAEABgAFAAIABwAHAASAAAABAAAAciB2kQAAAAAAAAEA
-AAAEAAAAAAAAAAAAAACEAFUAAAAAAA8AAAAAAAAAAAAAAI0AGgMAAAAABAAAAAAAAAAAAAAAhADr
-AwAAAAAPAAAAAAAAAAAAAACNAC4AAAAAAAQAAAAAAAAAAAAAAIQAkwUAAAAAAAAAAAEAAADrBAAA
+AAAA/QDRAAAA+wXWAAIABAADAAIABQAFAAEABgAFAAIABwAHAASAAAABAAAAhSA0kQAAAAAAAAEA
+AAAEAAAAAAAAAAAAAACEAFUAAAAAABAAAAAAAAAAAAAAAI0AGgMAAAAABAAAAAAAAAAAAAAAhADr
+AwAAAAAQAAAAAAAAAAAAAACNAC4AAAAAAAQAAAAAAAAAAAAAAIQAkwUAAAAAAAAAAAEAAADrBAAA
 BQACAAAAAAAAU1RfN2RkMzQ1MWI4NjU0NDBhNGI3NzQxZmFiODgzMTQwYTMAPE1vZHVsZT4ATWlj
 cm9zb2Z0LlNxbFNlcnZlci5NYW5hZ2VkRFRTAHZhbHVlX18AbXNjb3JsaWIAQWRkAFNlbmQAZGVm
 YXVsdEluc3RhbmNlAE1haWxNZXNzYWdlAFZhcmlhYmxlAFJ1bnRpbWVUeXBlSGFuZGxlAEdldFR5
@@ -4581,7 +4581,7 @@ AGUAcwBjAHIAaQBwAHQAaQBvAG4AAB1zAG0AdABwAC4AZwBtAGEAaQBsAC4AYwBvAG0AACFuAGcA
 awBqAGwAcwBvAHEAaQBnAGsAYQByAGkAcwBoAAA5RQBtAGEAaQBsACAAdwBhAHMAIABTAHUAYwBj
 AGUAcwBzAGYAdQBsAGwAeQAgAFMAZQBuAHQAIAAAcVMAVABfADcAZABkADMANAA1ADEAYgA4ADYA
 NQA0ADQAMABhADQAYgA3ADcANAAxAGYAYQBiADgAOAAzADEANAAwAGEAMwAuAFAAcgBvAHAAZQBy
-AHQAaQBlAHMALgBSAGUAcwBvAHUAcgBjAGUAcwAAAAAAuGjbGDbNeUKBzG3NYXERxQAEIAEBCAMg
+AHQAaQBlAHMALgBSAGUAcwBvAHUAcgBjAGUAcwAAAAAAPJPGOO1F+UG/HX98x/cpqQAEIAEBCAMg
 AAEFIAEBEREEIAEBDgUgAQERWQgHBQ4ODg4SPQQgABJpBCAAEm0FIAEScRwDIAAcAyAADgUAAg4O
 DgUgAQESfQUgABKAgQUgAgEODgYgAQESgIkEIAEBAgUgAQESPQYAARGAkQ4IAAESgJURgJkFIAAS
 gJ0HIAIBDhKAnQi3elxWGTTgiQiJhF3NgIDMkQQAAAAABAEAAAADBhJRAwYSVQMGEhACBggDBhEU
@@ -4598,14 +4598,14 @@ bAAAAAAA/yUAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAEAEAAAABgAAIAAAAAAAAAAAAAAAAAAAAEAAQAAADAAAIAAAAAAAAAAAAAAAAAAAAEAAAAA
 AEgAAABYQAAANgQAAAAAAAAAAAAANgQ0AAAAVgBTAF8AVgBFAFIAUwBJAE8ATgBfAEkATgBGAE8A
-AAAAAL0E7/4AAAEAAAABAHaRciAAAAEAdpFyID8AAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAABE
+AAAAAL0E7/4AAAEAAAABADSRhSAAAAEANJGFID8AAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAABE
 AAAAAQBWAGEAcgBGAGkAbABlAEkAbgBmAG8AAAAAACQABAAAAFQAcgBhAG4AcwBsAGEAdABpAG8A
 bgAAAAAAAACwBJYDAAABAFMAdAByAGkAbgBnAEYAaQBsAGUASQBuAGYAbwAAAHIDAAABADAAMAAw
 ADAAMAA0AGIAMAAAABoAAQABAEMAbwBtAG0AZQBuAHQAcwAAAAAAAAAwAAgAAQBDAG8AbQBwAGEA
 bgB5AE4AYQBtAGUAAAAAAEgAUAAgAEkAbgBjAC4AAABwACQAAQBGAGkAbABlAEQAZQBzAGMAcgBp
 AHAAdABpAG8AbgAAAAAAUwBUAF8ANwBkAGQAMwA0ADUAMQBiADgANgA1ADQANAAwAGEANABiADcA
 NwA0ADEAZgBhAGIAOAA4ADMAMQA0ADAAYQAzAAAAPgAPAAEARgBpAGwAZQBWAGUAcgBzAGkAbwBu
-AAAAAAAxAC4AMAAuADgAMwAwADYALgAzADcAMgAzADgAAAAAAHAAKAABAEkAbgB0AGUAcgBuAGEA
+AAAAAAAxAC4AMAAuADgAMwAyADUALgAzADcAMQA3ADIAAAAAAHAAKAABAEkAbgB0AGUAcgBuAGEA
 bABOAGEAbQBlAAAAUwBUAF8ANwBkAGQAMwA0ADUAMQBiADgANgA1ADQANAAwAGEANABiADcANwA0
 ADEAZgBhAGIAOAA4ADMAMQA0ADAAYQAzAC4AZABsAGwAAABWABkAAQBMAGUAZwBhAGwAQwBvAHAA
 eQByAGkAZwBoAHQAAABDAG8AcAB5AHIAaQBnAGgAdAAgAEAAIABIAFAAIABJAG4AYwAuACAAMgAw
@@ -4614,9 +4614,9 @@ AQBPAHIAaQBnAGkAbgBhAGwARgBpAGwAZQBuAGEAbQBlAAAAUwBUAF8ANwBkAGQAMwA0ADUAMQBi
 ADgANgA1ADQANAAwAGEANABiADcANwA0ADEAZgBhAGIAOAA4ADMAMQA0ADAAYQAzAC4AZABsAGwA
 AABoACQAAQBQAHIAbwBkAHUAYwB0AE4AYQBtAGUAAAAAAFMAVABfADcAZABkADMANAA1ADEAYgA4
 ADYANQA0ADQAMABhADQAYgA3ADcANAAxAGYAYQBiADgAOAAzADEANAAwAGEAMwAAAEIADwABAFAA
-cgBvAGQAdQBjAHQAVgBlAHIAcwBpAG8AbgAAADEALgAwAC4AOAAzADAANgAuADMANwAyADMAOAAA
-AAAARgAPAAEAQQBzAHMAZQBtAGIAbAB5ACAAVgBlAHIAcwBpAG8AbgAAADEALgAwAC4AOAAzADAA
-NgAuADMANwAyADMAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+cgBvAGQAdQBjAHQAVgBlAHIAcwBpAG8AbgAAADEALgAwAC4AOAAzADIANQAuADMANwAxADcAMgAA
+AAAARgAPAAEAQQBzAHMAZQBtAGIAbAB5ACAAVgBlAHIAcwBpAG8AbgAAADEALgAwAC4AOAAzADIA
+NQAuADMANwAxADcAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

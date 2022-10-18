@@ -8,11 +8,20 @@
         <UseWinAuth>false</UseWinAuth>
         <WinAuthUserName />
         <WinAuthDomain />
+        <ServerName>LAPTOP-FIKRU</ServerName>
+        <PathOnServer>/SSISDB/QL_SSIS_PKG/QL_Fikru_Adera_SSIS_Package</PathOnServer>
+        <Run64BitRuntime>false</Run64BitRuntime>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
         <ProgressReporting>true</ProgressReporting>
-        <ParameterConfigurationSensitiveValues />
+        <ParameterConfigurationSensitiveValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2022-09-08T01:39:31.5143394Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationSensitiveValues>
       </Options>
     </Configuration>
   </Configurations>
