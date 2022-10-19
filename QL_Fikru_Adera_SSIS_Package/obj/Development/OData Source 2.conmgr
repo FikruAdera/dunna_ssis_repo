@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="OData Source 2"
+  DTS:DTSID="{4B9421CA-CA7A-4E34-918D-344D3B583D34}"
+  DTS:CreationName="ODATA">
+  <DTS:ObjectData>
+    <ODataConnectionManager
+      UserName="sharepoint@dunatk.com"
+      Url="https://dunatkcom.sharepoint.com/sites/LendingQB2/_vti_bin/listdata.svc"
+      ConnectionString="Service Document Url=https://dunatkcom.sharepoint.com/sites/LendingQB2/_vti_bin/listdata.svc;Include Atom Elements=Auto;Include Expanded Entities=False;Integrated Security=False;Cookie=&quot;SPOIDCRL=77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U1A+VjEyLDBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMDQ1MzllODlmQGxpdmUuY29tLDAjLmZ8bWVtYmVyc2hpcHxzaGFyZXBvaW50QGR1bmF0ay5jb20sMTMzMDc5MDkwMDgwMDAwMDAwLDEzMzA1ODYzNzg1MDAwMDAwMCwxMzMwNzk5NTQwODM0NDUyMzYsMC4wLjAuMCw0LDg1ZGRmN2U5LTgwNjgtNGJiNi04OTc5LTQ0NzYxNDQyZTM5YSwsLDZkZWE2NWEwLTkwYmEtMjAwMC01YmJjLWViZTI5MzUwNGJhNiw2ZGVhNjVhMC05MGJhLTIwMDAtNWJiYy1lYmUyOTM1MDRiYTYsLDAsMCwwLCwsLDI2NTA0Njc3NDM5OTk5OTk5OTksMCwsLCwsLCwwLCxPT1RxNlE1Q2lFcUFSdkNSaGxlMTNWUUxUeE1rY05oZG5xQjNQYU4rMVN3ZlFSRzNYWnpuTHZubFF3UUNJVWNDcHRvNGF6eGQ3SkRmWjJtSm85TlI4WUlOL1lKajVSNUJvNHZwRk1TMzVPNmgxczZZM0F1Y0o4RitQMG03YlFkK0VzYWpHWlZaZ2Q0U1I1aS92OFd4eHcrcUxYVkxIaFpsdU9JT0gzdGNxZGdGQUk5SU5GdGdVcXlPem9YdHJJdnpUMVovdFR0QmJPTTIwWW44UDNueC92NVNvb0x2SjFFTTE1U2JhaU03U2lqbStPM2Q4elY5bFRxOWEzUU95Ty9BWVNTdUJqZ29jVmR2T3JlQklFK1NoeEhzeTZwN0w2YnlvNUpscjRiRGs1VHFwRWJjNUR6aGhjRHl2aTdvNndTdG9MdFF4cmZ3MjA1YzVWZmsvVEpWSnc9PTwvU1A+&quot;;User ID=sharepoint@dunatk.com;Persist Security Info=False;Time Out=600;Schema Sample Size=25;Retry Count=5;Retry Sleep=100;Keep Alive=False;Max Received Message Size=4398046511104"
+      MicrosoftOnlineServicesAuth="True"
+      AuthType="MicrosoftOnlineService"
+      ConnectByProxy="False">
+      <Password
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVAxXcKd7JU6s94/rYZM8VwAAAAACAAAAAAAQZgAAAAEAACAAAACrs7uTNHOf+O/bqF55TB2/QFoa83j+kMriezJS07q89wAAAAAOgAAAAAIAACAAAACov2orYe+FkfkfmIxI65bxeeEKHMAtcxsCKmocxkQAojAAAADqfzTEXWYNwK0GURqFyJftoz1UIptjwtsdxdhyYLgw66xDqC+zJMzSWjHGV16U7rNAAAAAjW9IxKFzGjD9GZjdRHb8/K6mqy8JGWbMT5FDWOCjDUD6mPGzDGR2FyYqPvK8NzDl2Q6hbWs+AlXNlUErUn3YnA==</Password>
+    </ODataConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
