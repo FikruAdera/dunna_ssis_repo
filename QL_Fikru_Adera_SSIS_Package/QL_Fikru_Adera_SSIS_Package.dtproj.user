@@ -9,7 +9,7 @@
         <WinAuthUserName />
         <WinAuthDomain />
         <ServerName>LAPTOP-FIKRU</ServerName>
-        <PathOnServer>/SSISDB/QL_SSIS_PKG/QL_Fikru_Adera_SSIS_Package</PathOnServer>
+        <PathOnServer>/SSISDB/QL_SSIS_PKG1/QL_Fikru_Adera_SSIS_Package</PathOnServer>
         <Run64BitRuntime>false</Run64BitRuntime>
         <UserIDs />
         <UserPasswords />
